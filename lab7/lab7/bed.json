@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "Кровать",
+        "Price": 15000.0,
+        "Material": "Дерево",
+        "Color": "Белый",
+        "Size": "Queen"
+    },
+    {
+        "Name": "Кровать",
+        "Price": 20000.0,
+        "Material": "МДФ",
+        "Color": "Черный",
+        "Size": "King"
+    }
+]

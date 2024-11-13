@@ -1,0 +1,14 @@
+C:\Users\User\Documents\2 курс 1 сем\лабы ООП\lab1\lab1\bin\Debug\net8.0\lab1.exe
+C:\Users\User\Documents\2 курс 1 сем\лабы ООП\lab1\lab1\bin\Debug\net8.0\lab1.deps.json
+C:\Users\User\Documents\2 курс 1 сем\лабы ООП\lab1\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+C:\Users\User\Documents\2 курс 1 сем\лабы ООП\lab1\lab1\bin\Debug\net8.0\lab1.dll
+C:\Users\User\Documents\2 курс 1 сем\лабы ООП\lab1\lab1\bin\Debug\net8.0\lab1.pdb
+C:\Users\User\Documents\2 курс 1 сем\лабы ООП\lab1\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\2 курс 1 сем\лабы ООП\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\2 курс 1 сем\лабы ООП\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+C:\Users\User\Documents\2 курс 1 сем\лабы ООП\lab1\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2 курс 1 сем\лабы ООП\lab1\lab1\obj\Debug\net8.0\lab1.dll
+C:\Users\User\Documents\2 курс 1 сем\лабы ООП\lab1\lab1\obj\Debug\net8.0\refint\lab1.dll
+C:\Users\User\Documents\2 курс 1 сем\лабы ООП\lab1\lab1\obj\Debug\net8.0\lab1.pdb
+C:\Users\User\Documents\2 курс 1 сем\лабы ООП\lab1\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+C:\Users\User\Documents\2 курс 1 сем\лабы ООП\lab1\lab1\obj\Debug\net8.0\ref\lab1.dll
