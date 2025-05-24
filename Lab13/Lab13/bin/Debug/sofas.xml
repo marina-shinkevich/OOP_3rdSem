@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfSofa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sofa>
+    <Name>Диван</Name>
+    <Price>19999</Price>
+    <Color>Синий</Color>
+    <SeatCount>3</SeatCount>
+  </Sofa>
+  <Sofa>
+    <Name>Диван</Name>
+    <Price>15999</Price>
+    <Color>Красный</Color>
+    <SeatCount>2</SeatCount>
+  </Sofa>
+  <Sofa>
+    <Name>Диван</Name>
+    <Price>24999</Price>
+    <Color>Зеленый</Color>
+    <SeatCount>4</SeatCount>
+  </Sofa>
+</ArrayOfSofa>

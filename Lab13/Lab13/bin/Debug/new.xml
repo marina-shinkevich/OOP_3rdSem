@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sofas>
+  <Sofa>
+    <Name>Диван</Name>
+    <Price>19999</Price>
+    <Material>Дерево</Material>
+    <Color>Синий</Color>
+    <SeatCount>3</SeatCount>
+  </Sofa>
+  <Sofa>
+    <Name>Диван</Name>
+    <Price>15999</Price>
+    <Material>Металл</Material>
+    <Color>Красный</Color>
+    <SeatCount>2</SeatCount>
+  </Sofa>
+  <Sofa>
+    <Name>Диван</Name>
+    <Price>24999</Price>
+    <Material>Ткань</Material>
+    <Color>Зеленый</Color>
+    <SeatCount>4</SeatCount>
+  </Sofa>
+</Sofas>
